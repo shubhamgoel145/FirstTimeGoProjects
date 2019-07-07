@@ -11,6 +11,6 @@ That being said, if you do spot any errors or improvements please feel free to l
 Thanks
 Shubs
 
-##Project Catalogue (Projects will be updated as they are added)
+## Project Catalogue (Projects will be updated as they are added)
 - CLI for getting information on websites, such as MX records, CNAME, IP, etc
 - CLI for getting weather information 
