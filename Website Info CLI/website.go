@@ -12,6 +12,7 @@ func main() {
 	app := cli.NewApp()
 	app.Name = "Shubs Website Lookup"
 	app.Usage = "Get information on Websites, IPS, MX Records etc"
+	app.Version = "0.0.1"
 
 	Flags := []cli.Flag{
 		cli.StringFlag{
